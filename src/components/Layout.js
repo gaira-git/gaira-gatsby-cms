@@ -10,11 +10,15 @@ const TemplateWrapper = ({ children }) => {
   return (
     <div>
       <Helmet>
-        <html lang="en" />
+        <html lang="ja" />
         <title>{title}</title>
         <meta name="description" content={description} />
 
         <link
+          rel="icon"
+          href="/img/favicon.ico"
+        />
+        {/* <link
           rel="apple-touch-icon"
           sizes="180x180"
           href="/img/apple-touch-icon.png"
@@ -36,7 +40,7 @@ const TemplateWrapper = ({ children }) => {
           rel="mask-icon"
           href="/img/safari-pinned-tab.svg"
           color="#ff4400"
-        />
+        /> */}
         <meta name="theme-color" content="#fff" />
 
         <meta property="og:type" content="business.business" />
