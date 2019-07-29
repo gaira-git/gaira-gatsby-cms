@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 中部ゲーム産学協議会
-image: /img/home-jumbotron.jpg
+image: /img/blog-index.jpg
 heading: GAIRAの活動
 subheading: Game Academics and Industries Relationship Association
 mainpitch:
@@ -10,9 +10,9 @@ mainpitch:
 description: さまざまな活動を行っています。
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/gaira_gkt2019_500x300.jpg
       text: 中部最大級のゲーム業界合同企業展「中部クリエイティブフェスタ」
-    - image: /img/coffee-gear.png
+    - image: /img/dokkan_500x300.jpg
       text: ゲームクリエイターのためのカンファレンス「どっかんナゴヤ」
   heading: What we offer
   description: >
